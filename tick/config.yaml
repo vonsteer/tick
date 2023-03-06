@@ -1,0 +1,23 @@
+config:
+  password: jC13052019
+  url: https://jira.rdpnts.com/
+  username: jconstante
+current_task:
+  key: REPSLACKLISTENER-1
+  start_time: 1676759824
+  status: In Progress
+  summary: Initial implementation
+  time_spent: 0
+  type: Story
+rules:
+  branch:
+    botsconfig: ''
+    default: feature/
+    recipe: ''
+  project:
+    botsconfig: RPCONFIG
+    default: CRW
+    recipe: RPCONFIG
+  repo:
+    botsconfig: bots-config
+    recipe: bots-config
